@@ -1,0 +1,12 @@
+/Users/abrammurphy/Projects/CSProject/CSProject/obj/Debug/netcoreapp3.1/CSProject.csprojAssemblyReference.cache
+/Users/abrammurphy/Projects/CSProject/CSProject/obj/Debug/netcoreapp3.1/CSProject.AssemblyInfoInputs.cache
+/Users/abrammurphy/Projects/CSProject/CSProject/obj/Debug/netcoreapp3.1/CSProject.AssemblyInfo.cs
+/Users/abrammurphy/Projects/CSProject/CSProject/obj/Debug/netcoreapp3.1/CSProject.csproj.CoreCompileInputs.cache
+/Users/abrammurphy/Projects/CSProject/CSProject/bin/Debug/netcoreapp3.1/CSProject.deps.json
+/Users/abrammurphy/Projects/CSProject/CSProject/bin/Debug/netcoreapp3.1/CSProject.runtimeconfig.json
+/Users/abrammurphy/Projects/CSProject/CSProject/bin/Debug/netcoreapp3.1/CSProject.runtimeconfig.dev.json
+/Users/abrammurphy/Projects/CSProject/CSProject/bin/Debug/netcoreapp3.1/CSProject.dll
+/Users/abrammurphy/Projects/CSProject/CSProject/bin/Debug/netcoreapp3.1/CSProject.pdb
+/Users/abrammurphy/Projects/CSProject/CSProject/obj/Debug/netcoreapp3.1/CSProject.dll
+/Users/abrammurphy/Projects/CSProject/CSProject/obj/Debug/netcoreapp3.1/CSProject.pdb
+/Users/abrammurphy/Projects/CSProject/CSProject/obj/Debug/netcoreapp3.1/CSProject.genruntimeconfig.cache

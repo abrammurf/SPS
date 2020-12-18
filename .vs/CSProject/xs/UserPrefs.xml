@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{8E6AD559-B112-4876-AE03-97C4D49717B9}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CSProject/Program.cs">
+    <Files>
+      <File FileName="CSProject/Program.cs" Line="222" Column="138" />
+      <File FileName="CSProject/PaySliP.cs" Line="8" Column="134" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSProject" expanded="True">
+            <Node name="CSProject" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSProject PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
